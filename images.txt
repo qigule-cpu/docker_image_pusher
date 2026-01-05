@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-whiterabbitsecurity/openxpki3
-mariadb:latest
+whiterabbitsecurity/openxpki3:3.32.8
+mariadb:11.4
